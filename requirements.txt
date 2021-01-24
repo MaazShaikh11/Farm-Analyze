@@ -37,7 +37,6 @@ geemap==0.7.13
 geetools==0.6.7
 geocoder==1.38.1
 geos==0.2.1
-get==2018.11.19
 google-api-core==1.22.2
 google-api-python-client==1.12.2
 google-auth==1.21.3
