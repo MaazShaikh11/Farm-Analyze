@@ -112,7 +112,6 @@ pyrsistent==0.17.3
 pyshp==2.1.2
 python-dateutil==2.7.5
 pytz==2020.1
-pywin32==228
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
