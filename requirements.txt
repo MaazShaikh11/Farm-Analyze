@@ -129,7 +129,7 @@ traittypes==0.2.1
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==1.25.11
 virtualenv==16.1.0
 voila==0.2.3
 wcwidth==0.2.5
