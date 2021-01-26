@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True FarmMonitor.ipynb
+web: voila --port=$PORT --no-browser --strip_sources=False --enable_nbextensions=True FarmMonitor.ipynb
